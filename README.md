@@ -1,2 +1,1 @@
-# finanzas_bot
-diplomado de finanzas bursátiles
+# trading_quant_system
